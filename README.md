@@ -6,7 +6,7 @@
 ## Présentaiton
 
 
-Ce pain, aprrécié par tout le monde que ce soit *par les petits ou par les grands*, est originaire d'Asie du sud.  Connu pour sa tendresse, le Naan exitse également souus différentes versions revisités.[^2] Celui a été inventé par la __famille Gupta__ à Paris en 1976.[^2]
+Ce pain, aprrécié par tout le monde que ce soit *par les petits ou par les grands*, est originaire d'Asie du sud.  Connu pour sa tendresse, le Naan exitse également souus différentes versions revisités.[^1] Celui a été inventé par la __famille Gupta__ à Paris en 1976.[^2]
 Ce plat est traditionnellement cuit dans un *[tandoor](https://fr.wikipedia.org/wiki/Tandoor)*, un four traditionnel utilisé en Inde et Asie centrale.
 
 ![Tandoor](/Tandoor.jpg)
@@ -31,4 +31,5 @@ Ce plat est traditionnellement cuit dans un *[tandoor](https://fr.wikipedia.org/
 
 
 [^1]: [Naan — Wikipédia](https://fr.wikipedia.org/wiki/Naan)
-[^2] : [Le "Cheese Naan" Indien inventé à Paris](https://www.leguidedufromage.com/cheese-naan-invention-france-zo178.html)
+
+[^2]: [Le "Cheese Naan" Indien inventé à Paris](https://www.leguidedufromage.com/cheese-naan-invention-france-zo178.html)
