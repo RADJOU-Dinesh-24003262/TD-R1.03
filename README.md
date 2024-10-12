@@ -42,7 +42,7 @@ Il existe environ 20 types de Naans.[^3] Bien que le plain Naan (*le Naan simple
 - Sel : 1 cuillere à café
 - Huile végétale : 4 cuilliere à soupe 
 - Fromage : Vous pouvez utiliser de la mozzarella, du comté, du beaufort,..... mais nous allons utiliser de la Vache qui rit (12 portions soit 2 portions par Naan) 
-- Optionels : les condiments tels que les herbes fraiches ciselées ou même le [zaatar](https://fr.wikipedia.org/wiki/Zaatar) mix [^5], le Beurre ou ghee[^4]
+- Optionels : les condiments tels que les herbes fraiches ciselées ou même le [zaatar](https://fr.wikipedia.org/wiki/Zaatar) mix [^5] et le Beurre ou ghee[^4]
 
 
 #### La recette 
