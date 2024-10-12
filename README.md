@@ -26,25 +26,31 @@ Il existe environ 20 types de Naans.[^3] Bien que le plain Naan (le Naan simple)
 |  Stuffed Naan            | Ce Naan est farci souvent avec de la pomme de terre (Aloo Naan) ou des épinards  (palak Naan) | ![Aloo Naan](/type%20de%20naan/Aloo-Naan.jpg)        |
 
 
-## Ingrédient Recette du Cheese Naan 
-pour préparer ce plat,  suivez bien ces étapes :
+## Recette du Cheese Naan 
+####  Portion et temps de réalisation de cette recette
+* __Portion__ : environ 6 naans
+* __Temps pour réaliser la recette__ : environ 20 minutes
+* __Temps de cuisson__ : 8 minutes/naan
 
 #### Ingrédient pour le Naan
-
-- Farine de blé
-- Eau
-- Yaourt
-- Levure chimique ou boulanger 
-- Sucre
-- Sel
-- Beurre ou ghee
-- Fromage : mozzarella, comté, beaufort, kiri,.....
-- Optionels : les condiments tels que les herbes fraiches ciselées ou meme le [zaatar mix](https://fr.wikipedia.org/wiki/Zaatar)[^4]
-
-
-
+- Farine de blé : 500g
+- Eau : 180ml 
+- Yaourt nature : 125g
+- Levure chimique : 2 pincées
+- Levure boulangère fraîche : 180g
+- Sucre : 1 cuillere à café
+- Sel : 1 cuillere à café
+- Huile végétale : 4 cuilliere à soupe 
+- Beurre ou ghee[^4]
+- Fromage : Vous pouvez utiliser de la mozzarella, du comté, du beaufort,..... mais nous allons utiliser de la Vache qui rit (12 portions soit 2 portions par Naan) 
+- Optionels : les condiments tels que les herbes fraiches ciselées ou même le [zaatar](https://fr.wikipedia.org/wiki/Zaatar) mix [^5]
 
 
+#### La recette 
+pour préparer ce plat, suivez bien ces étapes :
+1. Préparer la pate :
+   * Mélanger la farine, l’huile, le sucre, le sel, le yaourt, la levure et l’eau dans le bol d’un robot pâtissier[^6]
+   * Programmez 10 minutes de pétrissage – en augmentant progressivement la vitesse, jusqu’à ce que la pâte devienne souple et se décolle des parois.
 
 
 
@@ -57,7 +63,12 @@ Auteur: @Theo-radj
 
 [^3]: [Top 20 Types of Naan To Have With Gravy - Crazy Masala Food](https://www.crazymasalafood.com/top-20-types-of-naan-to-have-with-gravy/)
 
-[^4]: mélange d’épices, d’herbes aromatiques et de graines (thym sauvage, sumac, graines de sésame)
+[^4]: un beurre clarifié qui est souvent utilisé dans la cuisine indienne et notamment utilisé pour napper le naan
+
+[^5]: mélange d’épices, d’herbes aromatiques et de graines (thym sauvage, sumac, graines de sésame)
+
+[^6]: un robot équipé d’un crochet mélangeur
+
 
 
 
