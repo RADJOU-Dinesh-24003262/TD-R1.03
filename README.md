@@ -16,14 +16,14 @@ Ce plat est traditionnellement cuit dans un *[tandoor](https://fr.wikipedia.org/
 
 ## Différentes variantes du naans
 
-Il existe environ 20 types de Naans.[^3] Bien que le plain Naan (le Naan simple) soit agréable à manger, ses variantes peuvent nous offrir de meuilleurs saveurs. Je vais vous lister quelques-unes:
+Il existe environ 20 types de Naans.[^3] Bien que le plain Naan (*le Naan simple*) soit agréable à manger, ses variantes peuvent nous offrir de *meuilleurs saveurs*. Je vais vous lister quelques-unes:
 
 | Variante du Naan         | Description                                               | Image                                                            |
 |--------------------------|-----------------------------------------------------------|------------------------------------------------------------------|
-|Garlic and Coriander Naan | Ce Naan est garni avec d'ail et de coriandre              |![Naan à l'Ail](/type%20de%20naan/naans-ail-coriandre.jpg)        |
-| Butter Naan              | Ce Naan est garni avec du  beurre fondu                   |![Naan avec du beurre](type%20de%20naan/butter-naan.jpg)          |
-| Cheese Naan              | Ce Naan est farci avec du fromage, souvent avec du paneer |![Naan fourni avec du Fromage](type%20de%20naan/Cheese-Naan.jpg)  |
-|  Stuffed Naan            | Ce Naan est farci souvent avec de la pomme de terre (Aloo Naan) ou des épinards  (palak Naan) | ![Aloo Naan](/type%20de%20naan/Aloo-Naan.jpg)        |
+|**Garlic and Coriander Naan** | *Ce Naan est garni avec d'ail et de coriandre*              |![Naan à l'Ail](/type%20de%20naan/naans-ail-coriandre.jpg)        |
+| **Butter Naan**              | *Ce Naan est garni avec du  beurre fondu*                   |![Naan avec du beurre](type%20de%20naan/butter-naan.jpg)          |
+| **Cheese Naan**              | *Ce Naan est farci avec du fromage, souvent avec du paneer* |![Naan fourni avec du Fromage](type%20de%20naan/Cheese-Naan.jpg)  |
+|  **Stuffed Naan**            | *Ce Naan est farci souvent avec de la pomme de terre (**Aloo Naan**) ou des épinards  **(palak Naan**)* | ![Aloo Naan](/type%20de%20naan/Aloo-Naan.jpg)        |
 
 
 ## Recette du Cheese Naan [^7]
@@ -47,27 +47,28 @@ Il existe environ 20 types de Naans.[^3] Bien que le plain Naan (le Naan simple)
 
 #### La recette 
 pour préparer ce plat, suivez bien ces étapes :
-1. Préparer la pate :
+1. **Préparer la pate** :
    * Mélanger la farine, le sucre, le sel, la levure dans un bol. Vous pouvez bien évidemment le faire avec un robot pâtissier[^6]
    * Ajouter le yaourt et de l'huile, puis ajouter de l'eau progressivement
    * Pétrisser la pâte jusqu'à obtenir une pâte souple soit environ 10 min
    * Recouvrir le bol avec un torchon et laissez reposer pendant 1h à 2h
    * Une fois que la pate a augmenté de volume, Donner des coup de poing léger pour chasser l'air
    * Découper la pate en 6 petits morceaux
-2. Former le cheese naan :
+2. **Former le cheese naan** :
     * Etaler chaque boule sur votre plan de travail après l'avoir bien fariné
     * Remplir au le centre avec du vache qui rit et le refermez hermétiquement en repliant les bords
     * Ensuite, aplatir doucement pour lui donner une belle avec un rouleau en fesant attention à ne pas déchirer la pate
 
 
-3. Cuire le Naan :
+3. **Cuire le Naan** :
     * Dans une poêle préchaufé à feu moyen
     * Cuire le Naan environ 3/4 min jusqu'à qu'il commence à gonfler et qu'il devienne doré de chaque coté
-    * 
 > [!TIP]
 > Vous pouvez rajouter maintenant les différents condiments : ail, coriande,.....
 > 
 > Vous pourrez aussi le revêtir de beurre et de ghee
+
+*Voilà, votre magnifique Cheese naan est prêt. Il ne reste plus qu'à le savourer*
   
 
 
@@ -75,7 +76,7 @@ pour préparer ce plat, suivez bien ces étapes :
 <br>
 <br>
 
-Auteur: @Theo-radj
+*Auteur*: @Theo-radj
 
 [^1]: [Naan — Wikipédia](https://fr.wikipedia.org/wiki/Naan)
 
