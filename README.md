@@ -13,23 +13,29 @@ Ce plat est traditionnellement cuit dans un *[tandoor](https://fr.wikipedia.org/
 
 <br>
 
+
 ## Différentes variantes du naans
 
-| Variante du Naan | Description                                          |
-|-----------------------|-----------------------------------------------------|
-| Naan à l'ail         | Garni d'ail émincé et de coriandre.                |
-| Butter naan           | Enrobé de beurre fondu, souvent servi avec des plats riches. |
-| Naan au fromage       | Farci avec du fromage, comme de la mozzarella ou du paneer. |
-| Naan aux herbes       | Aromatisé avec différentes herbes fraîches, comme le persil ou la menthe. |
-| Naan sucré            | Incorporé avec du sucre, de la cannelle ou du chocolat. |
-| Naan au sésame        | Parsemé de graines de sésame avant la cuisson.     |
-| Naan aux légumes      | Farci de légumes sautés, comme des épinards ou des champignons. |
-| Naan épicé            | Mélangé avec des épices comme le cumin ou le paprika. |
-| Naan au pesto         | Incorporé de pesto dans la pâte ou comme garniture. |
+Il existe environ 20 types de Naans.[^3] Bien que le plain Naan (le Naan simple) soit agréable à manger, ses variantes peuvent nous offrir de meuilleurs saveurs. Je vais vous lister quelques-unes:
+
+| Variante du Naan         | Description                                               | Image                                                            |
+|--------------------------|-----------------------------------------------------------|------------------------------------------------------------------|
+|Garlic and Coriander Naan | Ce Naan est garni avec d'ail et de coriandre              |![Naan à l'Ail](/type%20de%20naan/naans-ail-coriandre.jpg)        |
+| Butter Naan              | Ce Naan est garni avec du  beurre fondu                   |![Naan avec du beurre](type%20de%20naan/butter-naan.jpg)          |
+| Cheese Naan              | Ce Naan est farci avec du fromage, souvent avec du paneer |![Naan fourni avec du Fromage](type%20de%20naan/Cheese-Naan.jpg)  |
+|  Stuffed Naan            | Ce Naan est farci souvent avec de la pomme de terre (Aloo Naan) ou des épinards  (palak Naan) | ![Aloo Naan](/type%20de%20naan/Aloo-Naan.jpg)        |
 
 
+## Recette du Cheese Naan 
+
+
+
+
+Auteur @Theo-radj
 
 
 [^1]: [Naan — Wikipédia](https://fr.wikipedia.org/wiki/Naan)
 
 [^2]: [Le "Cheese Naan" Indien inventé à Paris](https://www.leguidedufromage.com/cheese-naan-invention-france-zo178.html)
+
+[^3]: [Top 20 Types of Naan To Have With Gravy - Crazy Masala Food](https://www.crazymasalafood.com/top-20-types-of-naan-to-have-with-gravy/)
