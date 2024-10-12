@@ -5,13 +5,13 @@
 
 ## Présentaiton
 
-
 Ce pain, aprrécié par tout le monde que ce soit *par les petits ou par les grands*, est originaire d'Asie du sud.  Connu pour sa tendresse, le Naan exitse également souus différentes versions revisités.[^1] Celui a été inventé par la __famille Gupta__ à Paris en 1976.[^2]
 Ce plat est traditionnellement cuit dans un *[tandoor](https://fr.wikipedia.org/wiki/Tandoor)*, un four traditionnel utilisé en Inde et Asie centrale.
 
 ![Tandoor](/Tandoor.jpg)
 
 <br>
+
 
 
 ## Différentes variantes du naans
@@ -26,16 +26,40 @@ Il existe environ 20 types de Naans.[^3] Bien que le plain Naan (le Naan simple)
 |  Stuffed Naan            | Ce Naan est farci souvent avec de la pomme de terre (Aloo Naan) ou des épinards  (palak Naan) | ![Aloo Naan](/type%20de%20naan/Aloo-Naan.jpg)        |
 
 
-## Recette du Cheese Naan 
+## Ingrédient Recette du Cheese Naan 
+pour préparer ce plat,  suivez bien ces étapes :
+
+#### Ingrédient pour le Naan
+
+- Farine de blé
+- Eau
+- Yaourt
+- Levure chimique ou boulanger 
+- Sucre
+- Sel
+- Beurre ou ghee
+- Fromage : mozzarella, comté, beaufort, kiri,.....
+- Optionels : les condiments tels que les herbes fraiches ciselées ou meme le [zaatar mix](https://fr.wikipedia.org/wiki/Zaatar)[^4]
 
 
 
 
-Auteur @Theo-radj
 
+
+
+
+
+Auteur: @Theo-radj
 
 [^1]: [Naan — Wikipédia](https://fr.wikipedia.org/wiki/Naan)
 
 [^2]: [Le "Cheese Naan" Indien inventé à Paris](https://www.leguidedufromage.com/cheese-naan-invention-france-zo178.html)
 
 [^3]: [Top 20 Types of Naan To Have With Gravy - Crazy Masala Food](https://www.crazymasalafood.com/top-20-types-of-naan-to-have-with-gravy/)
+
+[^4]: mélange d’épices, d’herbes aromatiques et de graines (thym sauvage, sumac, graines de sésame)
+
+
+
+
+
