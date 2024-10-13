@@ -8,9 +8,9 @@
 # Sommaire
 - [Présentation](#présentation)
 - [Différentes variantes du naan](#différentes-variantes-du-naans)
-- [Recette du Cheese Naan](#recette-du-cheese-naan)
-  - [Portions et temps de réalisation](#portions-et-temps-de-réalisation)
-  - [Ingrédients pour le Naan](#ingrédients-pour-le-naan)
+- [Recette du Cheese Naan](#recette-du-cheese-naan-4)
+  - [Portions et temps de réalisation](#portion-et-temps-de-réalisation-de-cette-recette)
+  - [Ingrédients pour le Naan](#ingrédient-pour-le-naan)
   - [La recette](#la-recette)
 
 
