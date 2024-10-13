@@ -12,7 +12,7 @@
   - [Portions et temps de réalisation](#portion-et-temps-de-réalisation-de-cette-recette)
   - [Ingrédients pour le Naan](#ingrédient-pour-le-naan)
   - [La recette](#la-recette)
-
+- [Auteur](#Auteur)
 
 
 
@@ -89,7 +89,15 @@ pour préparer ce plat, suivez bien ces étapes :
 <br>
 <br>
 
+
+
+<a name="Auteur">
 *Auteur*: @Theo-radj
+</a>
+
+
+
+
 
 [^1]: [Naan — Wikipédia](https://fr.wikipedia.org/wiki/Naan)
 
