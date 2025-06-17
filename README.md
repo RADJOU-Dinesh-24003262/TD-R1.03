@@ -92,7 +92,7 @@ pour préparer ce plat, suivez bien ces étapes :
 
 
 <a name="Auteur"></a>
-*Auteur*: @Theo-radj
+*Auteur*: *[Dinesh RADJOU](http://www.dineshradj.eu/)*
 
 
 
